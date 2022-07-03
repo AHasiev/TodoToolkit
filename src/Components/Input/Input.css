@@ -1,0 +1,27 @@
+.input_conteiner {
+  display: flex;
+  border-bottom: 1px solid grey;
+  padding-bottom: 15px;
+}
+
+.input_conteiner input {
+  flex: 1;
+  border: 1px solid black;
+  border-radius: 15px;
+  font-size: 20px;
+  padding-left: 15px;
+}
+
+.input_conteiner button {
+  background-color: black;
+  color: white;
+  padding: 15px 30px;
+  border: none;
+  margin-left: 15px;
+  border-radius: 15px;
+  font-size: 20px;
+}
+
+input placeholder {
+  font-size: 18px;
+}
